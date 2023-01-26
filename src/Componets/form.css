@@ -1,0 +1,14 @@
+.form-style {
+    border: 1px solid black !important;
+    color: aliceblue !important;
+    font-size: 18px !important;
+    font-weight: 500 !important;
+    font-family: inherit !important;
+}
+.mask {
+    background: #6e617a;
+    color: aliceblue !important;
+}
+.card-body{
+    background: #b19eb1;
+}
